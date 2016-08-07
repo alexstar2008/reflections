@@ -13,12 +13,14 @@ What value do you think it offers?
 	one
 How can you use the staging area to make sure you have one commit per logical
 change?
-
-
+	to see diff
 What are some situations when branches would be helpful in keeping your history
 organized?
+	When you want to make exprerimental with code
 How would branches help?
 
+
+	You can make some modifacations using branches but keep original branch clean
 How do the diagrams help you visualize the branch structure?
 
 
